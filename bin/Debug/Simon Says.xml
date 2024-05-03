@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Simon Says
+</name>
+</assembly>
+<members>
+<member name="T:Bopp_Kevin_SimonSays.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.backArrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.Black_Bkgd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.CloseIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.CloseIconSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.cmsFileIconPic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.CorrectDing">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.EasyButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.ExitButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.frmEasy_Border">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.HardButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.HelpIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.HTP_Border">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.htpButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.MediumButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.MinimizeIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.MinimizeIconSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picBlue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picBlue_Click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picBorder_Launcher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picGreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picGreen_Click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picRed_Click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picWelcome_new">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picYellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.picYellow_Click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.playButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.readAgainArrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.readArrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.settingsBorder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.SettingsButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.SettingsIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.SimonSays_ico32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.SpeedUp">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.versionButtonIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.volume0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.volume10To32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.volume1To9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.volume33To65">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bopp_Kevin_SimonSays.My.Resources.Resources.volume66To100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
