@@ -1,0 +1,38 @@
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.exe.config
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Interop.WMPLib.dll
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\AxInterop.WMPLib.dll
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbproj.ResolveComReference.cache
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.exe
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.pdb
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.xml
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Interop.WMPLib.dll
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\AxInterop.WMPLib.dll
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbprojResolveAssemblyReference.cache
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmEasy.resources
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmLauncher.resources
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmHowToPlay.resources
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmSettings.resources
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.Resources.resources
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbproj.GenerateResource.Cache
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.exe
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.xml
+E:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.pdb
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.exe.config
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Interop.WMPLib.dll
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\AxInterop.WMPLib.dll
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbproj.ResolveComReference.cache
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.exe
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.xml
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Simon Says.pdb
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.exe
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.pdb
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Simon Says.xml
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\Interop.WMPLib.dll
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\bin\Debug\AxInterop.WMPLib.dll
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbprojResolveAssemblyReference.cache
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmEasy.resources
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmLauncher.resources
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmHowToPlay.resources
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.frmSettings.resources
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.Resources.resources
+F:\Programming I\Projects\Bopp_Kevin_SimonSays\Bopp_Kevin_SimonSays\obj\Debug\Bopp_Kevin_SimonSays.vbproj.GenerateResource.Cache
