@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E321576-4986-4419-8458-878CACE06916}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Bopp_Kevin_SimonSays.My.MyApplication</StartupObject>
+    <RootNamespace>Bopp_Kevin_SimonSays</RootNamespace>
+    <AssemblyName>Simon Says</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Simon Says.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Simon Says.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\SimonSays_ico32.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmLauncher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLauncher.Designer.vb">
+      <DependentUpon>frmLauncher.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEasy.Designer.vb">
+      <DependentUpon>frmEasy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEasy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHowToPlay.Designer.vb">
+      <DependentUpon>frmHowToPlay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHowToPlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Sfx.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEasy.resx">
+      <DependentUpon>frmEasy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLauncher.resx">
+      <DependentUpon>frmLauncher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHowToPlay.resx">
+      <DependentUpon>frmHowToPlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picWelcome_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SimonSays_ico32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBlue_Click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picGreen_Click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picRed_Click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picYellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picYellow_Click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black_Bkgd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CorrectDing.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpeedUp.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picBorder_Launcher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\htpButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EasyButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HardButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MediumButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseIconSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeIconSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTP_Border.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\readAgainArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\readArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume1To9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume10To32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume33To65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volume66To100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\versionButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settingsBorder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cmsFileIconPic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frmEasy_Border.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
